@@ -1,0 +1,9 @@
+.error {
+    color: red;
+}
+table, tr {
+    border: 2px solid rgb(173, 85, 85);
+}
+td {
+    padding: 10px;
+}
